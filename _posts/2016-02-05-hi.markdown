@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hi, there!"
+date:   2016-02-05 07:11:25 +0700
+categories: random
+---
+
+Hi, there!
+I decided to write about programming and other technical stuff here..
+
+and jekyll helps me out.
+
+thanks, jekyll. you have such a cool name btw.
