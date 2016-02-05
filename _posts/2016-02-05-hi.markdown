@@ -11,3 +11,7 @@ I decided to write about programming and other technical stuff here..
 and jekyll helps me out.
 
 thanks, jekyll. you have such a cool name btw.
+
+{% highlight clojure %}
+  (def hello "Hello World!")
+{% endhighlight %}
