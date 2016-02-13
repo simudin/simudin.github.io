@@ -6,7 +6,7 @@ categories: random
 ---
 
 Hi, there!
-I decided to write about programming and other technical stuff here..
+I decided to write about programming and other technical stuff here.
 
 and jekyll helps me out.
 
