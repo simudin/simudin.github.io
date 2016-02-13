@@ -37,7 +37,7 @@
   {% if page.image %}
     <meta content="{{ site.baseurl }}/assets/{{ page.image }}" property="og:image">
   {% else %}
-    <meta content="{{ site.baseurl }}/assets/hasim.jpg" property="og:image">
+    <meta content="{{ site.url }}/assets/hasim.jpg" property="og:image">
   {% endif %}
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
@@ -66,5 +66,5 @@
   {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
-  <meta name="twitter:image:src" content="{{ site.baseurl }}/assets/hasim.jpg">
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/hasim.jpg">
 </head>
