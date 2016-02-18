@@ -2,6 +2,7 @@
 layout: post
 title:  "Masang Clojure."
 date:   2016-02-12 07:11:25 +0700
+description: "Masang dulu clojure lah di komputer kamu sebelum ngdoding clojure"
 categories: clojure how-to
 ---
 
