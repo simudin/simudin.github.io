@@ -1,9 +1,11 @@
 ---
+title: Masang Clojure.
+date: 2016-02-12 00:11:25 Z
+categories:
+- clojure
+- how-to
 layout: post
-title:  "Masang Clojure."
-date:   2016-02-12 07:11:25 +0700
-description: "Masang dulu clojure lah di komputer kamu sebelum ngdoding clojure"
-categories: clojure how-to
+description: Masang dulu clojure lah di komputer kamu sebelum ngdoding clojure
 ---
 
 Kalau mau belajar Clojure, mesti punya Clojure dulu atuh yah di mesin kitanya. Masang Clojure di komputer kita itu lumayan gampang sih, karena ada yang namanya Leiningen. Nantinya si Leiningen bakal ngebantu kita masang Clojure di komputer kita. Terus tugas Leiningen juga buat ngatur hal-hal yang berhubungan/dibutuhkan sama projek(program) Clojure kita. Contoh: Kan biasanya projek kita tuh butuh kayak library atau plugin kayak gitu. Nah si Leiningen ini teh tugasnya buat kayak gitu, memastikan library/plugin yang kita butuhin tuh bisa dipake di projek kita. Kalau di Ruby mah ada kayak Gemfilenya gitu. Terus Leiningen juga dipake buat nentuin nama atau versioning atau lisensi projek Clojure kitanya. Kayak gitu-gitu.

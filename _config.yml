@@ -1,20 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: simudin
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: harudin91@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi! I'm Hasim Sofaruddin. A Web Developer from Sumedang,
-  Indonesia. I write about programming and other technical things here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simudin.github.io" # the base hostname & protocol for your site
+description: |
+  Hi! I'm Hasim Sofaruddin. A Web Developer from Sumedang, Indonesia. I write about programming and other technical things here.
+baseurl: ''
+url: http://simudin.github.io
 twitter_username: simudin
-github_username:  simudin
-
-# Build settings
+github_username: simudin
 markdown: kramdown

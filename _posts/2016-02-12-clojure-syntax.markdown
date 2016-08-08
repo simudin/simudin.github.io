@@ -1,9 +1,10 @@
 ---
+title: Bentuk sintak Clojure.
+date: 2016-02-12 00:11:25 Z
+categories:
+- clojure
 layout: post
-title:  "Bentuk sintak Clojure."
-date:   2016-02-12 07:11:25 +0700
-description: "Bentuk sintak clojure."
-categories: clojure
+description: Bentuk sintak clojure.
 ---
 
 Baiklah, sekarang mari kita bahas bentuk sintak dari Clojure. 

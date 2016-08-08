@@ -1,9 +1,10 @@
 ---
+title: Nice to meet you, Clojure!
+date: 2016-02-11 00:11:25 Z
+categories:
+- clojure
 layout: post
-title:  "Nice to meet you, Clojure!"
-date:   2016-02-11 07:11:25 +0700
-description: "What the flip is Clojure anyway? And why bother to learn Clojure?"
-categories: clojure
+description: What the flip is Clojure anyway? And why bother to learn Clojure?
 ---
 
 So, recently I had a crush on Clojure. Actually, I have no idea what and how Clojure is, even for right now. So, why do I want to learn it anyway in the first place? The answer is: Functional Programming!

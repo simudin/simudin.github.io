@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 ![hasim]({{site.baseurl}}/assets/hasim.jpg)

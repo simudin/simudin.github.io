@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Projects
-permalink: /projects/
+permalink: "/projects/"
+layout: page
 ---
 
 [forumdotsmd](https://www.forumdotsmd.com) - Autem laboriosam pariatur morbi, faucibus, donec ante occaecat repudiandae bibendum convallis temporibus voluptatem rem. Aliqua pellentesque vulputate mauris praesent hendrerit? Fringilla illo arcu placerat, etiam eum pariatur repellat, facilisis numquam, sociis minim magna iaculis quia omnis voluptatem fuga optio unde leo cillum fames necessitatibus ullam pede vivamus, consequuntur? Ipsam, rhoncus.
