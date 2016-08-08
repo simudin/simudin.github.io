@@ -1,10 +1,10 @@
 ---
 title: Bentuk sintak Clojure.
-date: 2016-02-12 00:11:25 Z
+date: 2016-02-12 00:11:00 Z
 categories:
 - clojure
-layout: post
 description: Bentuk sintak clojure.
+layout: post
 ---
 
 Baiklah, sekarang mari kita bahas bentuk sintak dari Clojure. 
@@ -36,7 +36,7 @@ Lihat baris paling akhir yang `user=>`. Nah di baris itu kita bisa nulis kode si
 
 ### **REPL itu apa ya?**
 
-REPL itu singkatan dari *Read Eval Print Loop*. REPL itu alat yang berguna banget buat nyoba kode langsung tanpa harus ngesave dulu kodenya di file terus di compile buat tau hasil dari kode kita. Ga usah! Kalau pake REPL, kita tinggal tulis langsung kode kita di promptnya terus tekan `ENTER`deh buat tau hasilnya. REPL ga cuma ada di Clojure sih, di bahasa pemrograman lain juga ada tapi ga banyak. Yang saya tau REPL itu ada juga di Ruby sama Python.
+REPL itu singkatan dari *Read Eval Print Loop*. REPL itu alat yang berguna banget buat nyoba kode langsung tanpa harus nge-save dulu kodenya di file terus di compile buat tau hasil dari kode kita. Ga usah! Kalau pake REPL, kita tinggal tulis langsung kode kita di promptnya terus tekan `ENTER`deh buat tau hasilnya. REPL ga cuma ada di Clojure sih, di bahasa pemrograman lain juga ada tapi ga banyak. Yang saya tau REPL itu ada juga di Ruby sama Python.
 
 Mari kita coba biar tau bagaimana REPL bekerja. Ketik di prompt REPL kamu:
 {% highlight comandline %}
