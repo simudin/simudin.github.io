@@ -9,8 +9,10 @@ collections:
     title: Uploads
     output: true
 email: harudin91@gmail.com
-description: |
-  Hi! I'm Hasim Sofaruddin. A Web Developer from Sumedang, Indonesia. I write about programming and other technical things here.
+description: 'Hi! I''m Hasim Sofaruddin. A Web Developer from Sumedang, Indonesia.
+  I write about programming and other technical things here.
+
+'
 baseurl: 
 url: http://simudin.github.io
 twitter_username: simudin
